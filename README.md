@@ -1,1 +1,4 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=982528494)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/982528494/github-stats-transparent/output/generated/overview.svg" />
+  <img src="https://raw.githubusercontent.com/982528494/github-stats-transparent/output/generated/languages.svg" />
+</div>
